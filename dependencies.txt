@@ -1,0 +1,25 @@
+Make sure you have these if you wanna have fun!
+The install.sh script should do the trick if you're on a debian-linux distro
+
+
+Python Standard Library Modules:
+
+    random
+    os
+    sys
+    time
+    subprocess
+    tempfile
+    logging
+    argparse
+
+Third-Party Python Libraries:
+
+    pyautogui
+    selenium
+    screeninfo
+    pynput
+
+External Programs:
+
+    yt-dlp
